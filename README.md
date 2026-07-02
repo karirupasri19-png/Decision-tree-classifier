@@ -14,10 +14,16 @@ bank.csv (or bank-full.csv)
 
 🛠️ Technologies Used
 Python 🐍
+
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
 
 
